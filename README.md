@@ -1,29 +1,29 @@
 # Global Holiday Calendar Generator
 Get a ics file for holidays across countries
 
-# Data source:
-Calendarific API
-https://calendarific.com/
-
-# Licence
+### Licence
 This script is licensed under Creative Commons Attribution 4.0 (CC BY 4.0)
 You may use, modify, and redistribute this code for any purpose,
 provided you give appropriate credit and include a link to:
 https://github.com/emmatamon/globalholidaycalendar
+# Data source:
+Calendarific API
+https://calendarific.com/
 
-## Output
+
+### Output
 A single ics file
 Each event is formatted as:
 `Holiday Name – [Country Codes]`
 
-## Requirements
+### Requirements
 R packages:
 - httr
 - jsonlite
 - dplyr
 - purrr
 
-## Usage
+### Usage
 1. Insert your Calendarific API key in the script
 2. Add the countries,  years and filename
 2. Run the script in R
