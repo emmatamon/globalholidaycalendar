@@ -6,10 +6,10 @@ This script is licensed under Creative Commons Attribution 4.0 (CC BY 4.0)
 You may use, modify, and redistribute this code for any purpose,
 provided you give appropriate credit and include a link to:
 https://github.com/emmatamon/globalholidaycalendar
-# Data source:
+
+### Data source:
 Calendarific API
 https://calendarific.com/
-
 
 ### Output
 A single ics file
